@@ -1,0 +1,368 @@
+Rank,Area,Total crashes,Fatal crashes,% in the dark,% in rain,Risk score (0-100),Risk level
+1,"Birmingham",11322,112,34,12,83,High
+2,"Leeds",7298,85,31,12,65,Medium
+3,"Bradford",5163,54,32,16,53,Medium
+4,"Westminster",5887,19,34,11,52,Medium
+5,"Tower Hamlets",5002,19,37,10,46,Medium
+6,"Lambeth",5221,25,33,10,46,Medium
+7,"Sheffield",3953,53,32,15,45,Medium
+8,"Southwark",4839,17,32,10,44,Medium
+9,"Cornwall",4851,92,24,17,44,Medium
+10,"Glasgow City",2947,45,33,19,43,Medium
+11,"Manchester",3485,51,33,14,42,Medium
+12,"Liverpool",4491,33,29,12,42,Medium
+13,"Croydon",4860,13,30,12,42,Medium
+14,"Newham",4056,21,35,11,40,Medium
+15,"Wiltshire",4655,93,25,13,40,Medium
+16,"Enfield",4629,28,32,11,40,Medium
+17,"Ealing",4187,19,32,12,39,Medium
+18,"Wandsworth",4625,14,29,9,39,Medium
+19,"Kirklees",3327,30,30,15,39,Medium
+20,"Hackney",3909,14,34,10,38,Medium
+21,"Brent",4287,20,33,10,38,Medium
+22,"West Northamptonshire",3621,75,31,13,38,Medium
+23,"Haringey",4149,13,33,10,38,Medium
+24,"Bristol",4111,30,30,11,37,Medium
+25,"Barnet",4148,19,30,11,37,Medium
+26,"Lewisham",3745,5,31,11,36,Medium
+27,"Sandwell",2972,25,33,13,35,Medium
+28,"Hillingdon",3160,17,33,12,35,Medium
+29,"Nottingham",3596,25,28,10,34,Medium
+30,"Hounslow",3412,17,30,11,34,Medium
+31,"Wakefield",2889,41,29,12,34,Medium
+32,"Camden",3497,12,31,10,34,Medium
+33,"Redbridge",3191,20,33,11,34,Medium
+34,"Brighton and Hove",2969,14,28,12,33,Medium
+35,"Rotherham",2070,43,32,15,33,Low
+36,"Greenwich",3051,13,32,11,33,Low
+37,"Buckinghamshire",3311,58,27,11,33,Low
+38,"Doncaster",2673,50,27,12,32,Low
+39,"Kingston upon Hull",3214,30,29,10,32,Low
+40,"Leicester",2241,21,35,11,32,Low
+41,"Calderdale",1808,29,33,17,32,Low
+42,"Dorset",3356,63,24,11,32,Low
+43,"North Yorkshire",3331,98,22,10,31,Low
+44,"Na h-Eileanan Siar (Western Isles)",72,3,36,32,31,Low
+45,"East Riding of Yorkshire",2934,70,26,11,31,Low
+46,"Bournemouth, Christchurch and Poole",3524,25,25,10,31,Low
+47,"Bromley",3054,14,29,11,31,Low
+48,"North Northamptonshire",2435,66,29,13,31,Low
+49,"Islington",2961,9,31,10,31,Low
+50,"Kensington and Chelsea",2992,13,30,9,31,Low
+51,"Cheshire East",2958,56,25,12,30,Low
+52,"Hammersmith and Fulham",2840,7,30,10,30,Low
+53,"Central Bedfordshire",2564,51,28,12,30,Low
+54,"County Durham",2370,86,26,10,29,Low
+55,"Orkney Islands",55,7,42,22,29,Low
+56,"Carmarthenshire",1612,39,27,20,29,Low
+57,"Barnsley",1799,35,30,13,29,Low
+58,"Waltham Forest",2666,13,31,10,29,Low
+59,"Southampton",2302,9,31,9,29,Low
+60,"Preston",1704,13,31,14,29,Low
+61,"Barking and Dagenham",2362,7,32,11,28,Low
+62,"Plymouth",2003,14,29,17,28,Low
+63,"Dudley",2000,23,30,14,28,Low
+64,"Luton",1889,13,33,13,28,Low
+65,"Somerset",2511,61,24,14,28,Low
+66,"City of Edinburgh",2389,28,26,11,28,Low
+67,"Portsmouth",2246,19,31,9,28,Low
+68,"Derby",2420,16,27,13,28,Low
+69,"Havering",2608,27,29,11,28,Low
+70,"Wolverhampton",2110,16,30,13,28,Low
+71,"Blackburn with Darwen",1463,12,30,16,27,Low
+72,"Salford",1423,25,31,14,27,Low
+73,"South Lanarkshire",1136,36,28,19,27,Low
+74,"Guildford",1785,22,28,14,27,Low
+75,"East Lindsey",1889,68,29,12,27,Low
+76,"Blackpool",1548,13,30,14,27,Low
+77,"Powys",1604,51,25,16,26,Low
+78,"Mid Sussex",1319,17,30,16,26,Low
+79,"Bexley",2014,16,30,11,26,Low
+80,"Bolton",1554,33,28,15,26,Low
+81,"Renfrewshire",600,19,33,20,26,Low
+82,"Coventry",1999,19,29,11,26,Low
+83,"Newcastle upon Tyne",2250,22,28,10,26,Low
+84,"Rhondda Cynon Taf",862,27,31,21,26,Low
+85,"Harrow",1927,10,31,10,26,Low
+86,"Rochdale",1029,23,32,16,26,Low
+87,"Shetland Islands",52,3,38,19,26,Low
+88,"Cheshire West and Chester",2615,44,24,10,26,Low
+89,"Crawley",1190,10,32,15,25,Low
+90,"North Lanarkshire",1075,27,30,16,25,Low
+91,"North Lincolnshire",1703,37,29,11,25,Low
+92,"Lancaster",1204,19,29,16,25,Low
+93,"Wigan",1209,22,30,14,25,Low
+94,"Blaby",551,13,35,16,25,Low
+95,"Reigate and Banstead",1519,15,28,14,25,Low
+96,"Shropshire",1847,84,27,9,25,Low
+97,"Pendle",674,11,34,15,25,Low
+98,"Walsall",1994,19,28,11,25,Low
+99,"Oldham",1055,23,31,14,24,Low
+100,"Burnley",842,15,32,16,24,Low
+101,"Wealden",1714,31,25,13,24,Low
+102,"Merton",2113,9,27,11,24,Low
+103,"Inverclyde",188,4,31,24,24,Low
+104,"Cumberland",1226,30,28,15,24,Low
+105,"Tandridge",1205,18,30,14,24,Low
+106,"Peterborough",1807,36,26,12,24,Low
+107,"South Gloucestershire",1797,25,26,14,24,Low
+108,"Medway",2466,22,24,9,24,Low
+109,"Northumberland",2037,60,22,11,24,Low
+110,"Epping Forest",1622,46,29,9,24,Low
+111,"Sutton",1771,8,27,12,24,Low
+112,"Cardiff",1345,12,30,14,23,Low
+113,"Chorley",991,15,28,17,23,Low
+114,"Fife",1255,33,26,14,23,Low
+115,"Horsham",1406,22,27,14,23,Low
+116,"Merthyr Tydfil",218,6,32,22,23,Low
+117,"Warrington",1559,19,27,13,23,Low
+118,"Swindon",2022,16,27,11,23,Low
+119,"Wirral",1938,23,24,11,23,Low
+120,"South Kesteven",1456,39,27,14,23,Low
+121,"Newport",836,17,31,14,23,Low
+122,"Hyndburn",746,8,30,17,23,Low
+123,"Heathrow Airport",119,0,39,13,23,Low
+124,"Mole Valley",1127,9,28,15,23,Low
+125,"New Forest",1588,20,27,10,23,Low
+126,"Stockport",1144,17,27,15,22,Low
+127,"Waverley",1073,19,30,13,22,Low
+128,"Norwich",1269,10,29,12,22,Low
+129,"Highland",1190,85,21,16,22,Low
+130,"Dartford",1586,12,28,11,22,Low
+131,"Chichester",1536,26,27,10,22,Low
+132,"North West Leicestershire",565,24,33,13,22,Low
+133,"Stoke-on-Trent",1185,26,29,13,22,Low
+134,"Sevenoaks",1334,21,28,12,22,Low
+135,"West Suffolk",1249,31,28,12,22,Low
+136,"Solihull",1275,15,27,13,22,Low
+137,"North East Lincolnshire",1668,16,27,9,22,Low
+138,"Tunbridge Wells",1074,10,29,14,22,Low
+139,"West Dunbartonshire",236,9,32,18,22,Low
+140,"South Ribble",979,10,27,16,22,Low
+141,"Arun",1431,18,26,12,22,Low
+142,"Westmorland and Furness",1212,37,23,17,22,Low
+143,"Winchester",1435,30,27,10,22,Low
+144,"Pembrokeshire",1092,19,25,15,22,Low
+145,"Huntingdonshire",1425,33,26,12,22,Low
+146,"St Albans",1268,14,29,12,22,Low
+147,"Canterbury",1510,21,27,11,22,Low
+148,"Dumfries and Galloway",941,39,27,14,22,Low
+149,"Test Valley",1103,22,29,11,22,Low
+150,"Milton Keynes",1549,25,29,10,22,Low
+151,"Swale",1564,22,26,11,21,Low
+152,"Bedford",1504,17,26,11,21,Low
+153,"Tameside",1048,32,28,13,21,Low
+154,"South Cambridgeshire",1349,47,27,10,21,Low
+155,"West Lothian",782,22,26,18,21,Low
+156,"Surrey Heath",883,16,29,14,21,Low
+157,"East Suffolk",1701,24,24,10,21,Low
+158,"Herefordshire",1522,41,25,11,21,Low
+159,"Ceredigion",767,7,26,17,21,Low
+160,"Sunderland",1638,28,25,10,21,Low
+161,"Basingstoke and Deane",1350,15,26,12,21,Low
+162,"Breckland",1211,36,26,11,21,Low
+163,"East Hampshire",1020,22,28,13,21,Low
+164,"Caerphilly",771,27,28,14,21,Low
+165,"Runnymede",1199,8,27,12,21,Low
+166,"Aberdeen City",349,11,32,14,21,Low
+167,"Maidstone",1717,23,24,11,21,Low
+168,"Swansea",704,15,31,14,21,Low
+169,"Falkirk",480,18,28,18,21,Low
+170,"Spelthorne",1137,6,28,11,21,Low
+171,"Oxford",1219,5,29,10,20,Low
+172,"Trafford",988,20,27,14,20,Low
+173,"Woking",966,7,30,11,20,Low
+174,"Bury",912,19,26,15,20,Low
+175,"Isle of Wight",1210,22,27,10,20,Low
+176,"Colchester",1599,16,26,9,20,Low
+177,"Basildon",1147,14,28,10,20,Low
+178,"Elmbridge",1400,2,26,11,20,Low
+179,"East Ayrshire",418,31,26,19,20,Low
+180,"South Staffordshire",699,27,31,11,20,Low
+181,"Hertsmere",1184,19,28,11,20,Low
+182,"Rother",1107,15,27,11,20,Low
+183,"Fareham",890,6,30,11,20,Low
+184,"North Somerset",1293,20,25,13,20,Low
+185,"North Devon",874,12,26,16,20,Low
+186,"Tewkesbury",768,27,29,12,20,Low
+187,"Richmond upon Thames",1841,9,22,9,20,Low
+188,"North Warwickshire",913,27,30,10,20,Low
+189,"Thurrock",1302,14,28,9,20,Low
+190,"Forest of Dean",612,17,30,13,20,Low
+191,"East Devon",1098,28,25,15,20,Low
+192,"Ashford",1330,30,23,14,20,Low
+193,"Gloucester",892,9,30,10,20,Low
+194,"Ribble Valley",487,9,30,14,20,Low
+195,"Bromsgrove",758,15,30,12,20,Low
+196,"West Lancashire",855,21,27,12,20,Low
+197,"Rugby",951,23,28,12,20,Low
+198,"South Derbyshire",864,16,28,13,20,Low
+199,"West Devon",568,14,24,20,20,Low
+200,"King's Lynn and West Norfolk",1280,36,24,11,20,Low
+201,"Charnwood",808,13,29,11,20,Low
+202,"Stroud",766,11,27,14,20,Low
+203,"Harborough",465,30,31,12,20,Low
+204,"Blaenau Gwent",296,4,32,13,20,Low
+205,"Epsom and Ewell",659,5,32,10,20,Low
+206,"City of London",876,3,31,8,20,Low
+207,"Rossendale",500,8,28,15,19,Low
+208,"Knowsley",945,11,26,14,19,Low
+209,"Gateshead",1354,13,25,11,19,Low
+210,"Tonbridge and Malling",1300,14,24,13,19,Low
+211,"Sefton",1698,20,23,10,19,Low
+212,"Reading",1305,9,28,10,19,Low
+213,"Chelmsford",1527,22,25,7,19,Low
+214,"Bassetlaw",1071,30,25,12,19,Low
+215,"North East Derbyshire",785,14,28,12,19,Low
+216,"Chesterfield",743,6,29,13,19,Low
+217,"South Hams",718,13,25,17,19,Low
+218,"Eastbourne",866,8,27,12,19,Low
+219,"Torbay",925,16,26,13,19,Low
+220,"Mid Devon",595,15,27,16,19,Low
+221,"Southend-on-Sea",1312,12,26,9,19,Low
+222,"East Staffordshire",622,21,29,12,19,Low
+223,"Torfaen",408,8,28,16,19,Low
+224,"Thanet",1401,17,25,9,19,Low
+225,"Lewes",960,17,26,12,19,Low
+226,"Hastings",877,7,29,10,19,Low
+227,"Eden",243,14,32,13,19,Low
+228,"St. Helens",1158,18,25,12,19,Low
+229,"Welwyn Hatfield",815,18,28,12,19,Low
+230,"North Kesteven",1255,30,26,10,19,Low
+231,"High Peak",766,16,26,14,19,Low
+232,"Teignbridge",1008,12,22,18,19,Low
+233,"Neath Port Talbot",421,18,26,18,19,Low
+234,"Hinckley and Bosworth",521,17,29,12,19,Low
+235,"Torridge",542,10,23,21,19,Low
+236,"Newark and Sherwood",1154,25,25,11,19,Low
+237,"Nuneaton and Bedworth",867,16,28,11,19,Low
+238,"Stratford-on-Avon",1154,32,25,10,19,Low
+239,"Barrow-in-Furness",146,0,29,17,19,Low
+240,"Ipswich",1110,1,26,12,19,Low
+241,"Bridgend",421,11,29,15,18,Low
+242,"Worthing",989,3,26,12,18,Low
+243,"York",1527,16,24,10,18,Low
+244,"Slough",1129,10,27,11,18,Low
+245,"Wyre",929,15,25,12,18,Low
+246,"Argyll and Bute",455,38,21,21,18,Low
+247,"Uttlesford",827,12,29,9,18,Low
+248,"West Lindsey",968,26,26,11,18,Low
+249,"Kingston upon Thames",1455,6,24,10,18,Low
+250,"Gravesham",1030,10,26,11,18,Low
+251,"Vale of Glamorgan",478,11,28,14,18,Low
+252,"Cambridge",1187,2,24,11,18,Low
+253,"Dover",1081,20,25,11,18,Low
+254,"West Berkshire",1014,19,25,12,18,Low
+255,"South Norfolk",1235,31,25,9,18,Low
+256,"Erewash",803,15,27,12,18,Low
+257,"Rushcliffe",911,19,26,11,18,Low
+258,"Havant",922,9,27,10,18,Low
+259,"Braintree",1137,25,25,10,18,Low
+260,"South Holland",931,17,28,10,18,Low
+261,"Dacorum",872,17,26,11,18,Low
+262,"Melton",328,17,27,16,18,Low
+263,"Maldon",481,11,29,12,18,Low
+264,"Fenland",705,33,28,11,18,Low
+265,"Halton",716,8,26,14,18,Low
+266,"Watford",658,2,28,12,18,Low
+267,"Cotswold",929,35,25,9,18,Low
+268,"Harlow",541,7,28,12,18,Low
+269,"Dundee City",651,5,28,10,18,Low
+270,"West Oxfordshire",666,18,27,11,18,Low
+271,"South Oxfordshire",755,27,27,10,18,Low
+272,"Aberdeenshire",702,55,23,13,18,Low
+273,"Hart",734,11,27,11,18,Low
+274,"Perth and Kinross",753,30,22,15,18,Low
+275,"East Cambridgeshire",643,28,28,10,17,Low
+276,"Lincoln",886,6,28,10,17,Low
+277,"Stafford",718,18,27,11,17,Low
+278,"Mansfield",802,11,26,13,17,Low
+279,"Clackmannanshire",111,7,31,14,17,Low
+280,"Cherwell",1002,25,26,10,17,Low
+281,"Tendring",1121,21,25,8,17,Low
+282,"Folkestone and Hythe",1007,14,25,11,17,Low
+283,"Eastleigh",953,9,27,9,17,Low
+284,"Rushmoor",673,6,28,11,17,Low
+285,"Babergh",767,16,25,13,17,Low
+286,"Bolsover",718,15,27,12,17,Low
+287,"Rutland",170,12,33,9,17,Low
+288,"Newcastle-under-Lyme",455,12,27,13,17,Low
+289,"East Dunbartonshire",185,7,24,19,17,Low
+290,"Scottish Borders",464,33,24,15,17,Low
+291,"Fylde",774,13,25,11,17,Low
+292,"Bath and North East Somerset",832,16,26,11,17,Low
+293,"North Ayrshire",452,21,25,14,17,Low
+294,"Derbyshire Dales",911,19,23,13,17,Low
+295,"Middlesbrough",865,8,27,9,17,Low
+296,"Boston",909,22,26,10,17,Low
+297,"East Hertfordshire",917,18,24,11,17,Low
+298,"North Hertfordshire",845,14,25,11,16,Low
+299,"Ashfield",972,9,25,10,16,Low
+300,"Brentwood",666,8,26,11,16,Low
+301,"Angus",495,20,27,10,16,Low
+302,"South Lakeland",389,12,25,15,16,Low
+303,"Broxbourne",691,4,26,11,16,Low
+304,"Lichfield",515,20,27,11,16,Low
+305,"Telford and Wrekin",784,13,25,11,16,Low
+306,"Monmouthshire",538,17,23,15,16,Low
+307,"Gwynedd",634,37,23,13,16,Low
+308,"Amber Valley",926,18,25,9,16,Low
+309,"Malvern Hills",543,17,26,11,16,Low
+310,"North Tyneside",1088,11,22,10,15,Low
+311,"Conwy",579,22,21,15,15,Low
+312,"Staffordshire Moorlands",474,23,26,11,15,Low
+313,"Broadland",1033,20,21,11,15,Low
+314,"Mid Suffolk",712,17,24,11,15,Low
+315,"Broxtowe",747,15,24,10,15,Low
+316,"Gosport",573,7,28,8,15,Low
+317,"Windsor and Maidenhead",885,8,23,11,15,Low
+318,"Wyre Forest",584,14,26,9,15,Low
+319,"Cheltenham",674,7,25,9,15,Low
+320,"Great Yarmouth",818,12,23,11,15,Low
+321,"Wokingham",893,10,23,11,15,Low
+322,"Mendip",332,10,24,15,15,Low
+323,"North Norfolk",769,16,23,10,15,Low
+324,"Wychavon",816,42,23,9,15,Low
+325,"Stevenage",535,4,25,13,15,Low
+326,"Warwick",1004,14,23,9,15,Low
+327,"Darlington",599,9,26,8,15,Low
+328,"Adur",575,5,26,9,15,Low
+329,"Wrexham",630,24,24,10,15,Low
+330,"Flintshire",741,20,22,11,15,Low
+331,"Hartlepool",496,11,27,8,15,Low
+332,"Exeter",845,9,22,11,15,Low
+333,"Vale of White Horse",755,20,23,10,14,Low
+334,"East Renfrewshire",300,7,24,14,14,Low
+335,"Stockton-on-Tees",913,19,25,6,14,Low
+336,"Stirling",429,15,21,15,14,Low
+337,"Allerdale",289,10,25,13,14,Low
+338,"Redditch",371,8,28,8,14,Low
+339,"Tamworth",267,8,28,9,14,Low
+340,"Carlisle",328,12,26,11,14,Low
+341,"Sedgemoor",378,10,25,11,14,Low
+342,"Midlothian",407,8,24,11,14,Low
+343,"South Ayrshire",357,19,23,12,14,Low
+344,"Redcar and Cleveland",618,10,26,7,13,Low
+345,"Bracknell Forest",584,9,24,10,13,Low
+346,"Cannock Chase",424,15,24,11,13,Low
+347,"Harrogate",429,9,25,10,13,Low
+348,"Three Rivers",592,6,23,11,13,Low
+349,"East Lothian",406,9,24,10,13,Low
+350,"Isle of Anglesey",249,11,24,12,13,Low
+351,"South Somerset",394,15,23,11,12,Low
+352,"Castle Point",477,7,25,8,12,Low
+353,"Rochford",449,4,26,6,12,Low
+354,"Hambleton",314,11,23,11,12,Low
+355,"Gedling",718,9,20,9,12,Low
+356,"Worcester",437,6,24,8,12,Low
+357,"Denbighshire",582,19,19,11,11,Low
+358,"South Tyneside",764,10,21,7,11,Low
+359,"Moray",198,23,24,8,11,Low
+360,"Copeland",202,2,23,9,10,Low
+361,"Oadby and Wigston",225,1,23,8,10,Low
+362,"Scarborough",337,5,20,10,10,Low
+363,"Somerset West and Taunton",370,9,19,11,9,Low
+364,"Richmondshire",177,4,20,10,9,Low
+365,"Selby",233,11,23,5,8,Low
+366,"Ryedale",221,11,19,6,5,Low
+367,"Craven",178,6,13,9,3,Low
